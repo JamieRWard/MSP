@@ -1,3 +1,3 @@
 ###Test File
-aws_access_key_id = AKIATZ5MYJ7KSZ2HUFDY
-aws_secret_key = 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
+aws_access_key_id = 
+aws_secret_key = 
